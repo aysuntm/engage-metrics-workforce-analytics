@@ -1,8 +1,13 @@
 # Block Jupyter notebook checkpoint files
-/DataFiles/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
 
 # Block Python bytecode files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Block Mac system files
+.DS_Store
+**/DS.Store
