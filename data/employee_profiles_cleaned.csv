@@ -1,101 +1,101 @@
-employee_id,age,salary,promotion_eligible,last_training_date,department,work_experience,projects_completed,hours_worked_weekly,work_mode,last_promotion_date,satisfaction_score,overtime_hours,ID,graduation_year,educational_background
-E0001,54.0,104328.0,Y,2023-08-15,Hr,16 years,14.0,43.3,remote work,2022-05-10,6.0,8.4,E0001,2011,Psychology
-E0002,41.0,64761.0,N,2023-08-15,Finance,1 years,8.0,53.3,hybrid,2022-05-10,6.0,8.1,E0002,1995,Architecture
-E0003,54.0,104328.0,N,2023-08-15,Marketing,8,6.0,32.6,hybrid,2022-10-05,10.0,5.2,E0003,2007,Business Administration
-E0004,41.0,104328.0,No,2023-08-15,Finance,16,1.0,37.8,remote,2022-05-10,5.0,6.15,E0004,2000,Business Administration
-E0005,29.0,61486.0,Y,2023-08-15,Finance,16 years,1.0,53.3,hybrid,2022-05-10,6.0,0.3,E0005,1991,Medicine
-E0006,41.0,93128.0,No,2023-08-15,Hr,6 years,12.0,35.6,hybrid,2022-10-05,3.0,9.7,E0006,2019,Statistics
-E0007,41.0,115377.0,Y,2023-08-15,Finance,11 years,13.0,33.7,hybrid,2022-05-10,7.0,1.8,E0007,1998,Mathematics
-E0008,41.0,51543.0,Y,2023-08-15,Finance,16 years,8.0,40.8,hybrid,2022-05-10,6.0,6.15,E0008,2009,Philosophy
-E0009,41.0,68755.0,N,2023-08-15,Finance,2,8.0,34.3,remote work,2022-05-10,2.0,2.3,E0009,2007,Business Administration
-E0010,37.0,104328.0,Y,2023-08-15,Finance,16 years,8.0,57.9,hybrid,2022-05-10,2.0,5.7,E0010,1990,Computer Science
-E0011,41.0,104328.0,Y,2023-08-15,Marketing,16 years,8.0,43.3,hybrid,2022-05-10,9.0,0.0,E0011,2007,Chemistry
-E0012,53.0,104328.0,Y,2023-08-15,Finance,16 years,8.0,43.3,on-site,2022-05-10,8.0,0.7,E0012,1993,Linguistics
-E0013,41.0,64651.0,Y,2023-08-15,Finance,8,8.0,46.3,hybrid,2022-05-10,7.0,6.15,E0013,2019,Psychology
-E0014,41.0,104328.0,Yes,2023-08-15,Finance,16 years,13.0,43.3,remote,2022-05-10,6.0,6.15,E0014,2008,Architecture
-E0015,41.0,77186.0,Y,2023-08-15,Engineering,17 years,3.0,42.3,hybrid,2022-10-05,4.0,5.9,E0015,2018,Engineering
-E0016,41.0,98311.0,N,2023-08-15,Finance,6 years,8.0,48.1,hybrid,2022-10-05,6.0,8.7,E0016,1986,Medicine
-E0017,41.0,79566.0,Y,2023-08-15,Engineering,16 years,8.0,50.0,on-site,2022-05-10,3.0,6.15,E0017,2003,Statistics
-E0018,34.0,75238.0,Yes,2023-08-15,Engineering,18 years,8.0,30.6,remote,2022-05-10,6.0,2.9,E0018,2006,Chemistry
-E0019,34.0,104328.0,Yes,2023-08-15,Finance,2 years,8.0,42.8,hybrid,2022-05-10,10.0,4.9,E0019,2012,Computer Science
-E0020,41.0,92752.0,Y,2023-08-15,Marketing,13 years,15.0,34.8,remote work,2022-05-10,6.0,7.2,E0020,2001,Law
-E0021,41.0,104328.0,Yes,2023-08-15,Engineering,17 years,8.0,48.9,hybrid,2022-05-10,6.0,4.0,E0021,1986,Computer Science
-E0022,41.0,81405.0,Y,2023-08-15,Marketing,5,8.0,59.4,on-site,2022-05-10,1.0,5.5,E0022,2017,Statistics
-E0023,41.0,104328.0,N,2023-08-15,Finance,14 years,8.0,43.3,remote work,2022-05-10,8.0,1.9,E0023,2016,Engineering
-E0024,41.0,104328.0,N,2023-08-15,Marketing,16 years,4.0,53.2,on-site,2022-05-10,6.0,7.8,E0024,1985,Chemistry
-E0025,27.0,75267.0,No,2023-08-15,Engineering,20,8.0,40.7,hybrid,2022-05-10,10.0,6.15,E0025,1994,Biology
-E0026,30.0,82815.0,Y,2023-08-15,Finance,16,8.0,30.1,remote work,2022-05-10,6.0,7.4,E0026,1990,Medicine
-E0027,41.0,77065.0,Y,2023-08-15,Finance,2,8.0,43.8,hybrid,2022-05-10,7.0,8.9,E0027,2016,Chemistry
-E0028,41.0,104328.0,No,2023-08-15,Finance,5 years,8.0,45.1,remote work,2022-10-05,9.0,6.15,E0028,1987,Architecture
-E0029,41.0,71504.0,Y,2023-08-15,Engineering,6 years,3.0,43.6,remote work,2022-10-05,10.0,6.15,E0029,2021,Mathematics
-E0030,41.0,71352.0,Yes,2023-08-15,Finance,16 years,1.0,54.2,hybrid,2022-05-10,3.0,6.9,E0030,1989,Linguistics
-E0031,28.0,104328.0,Yes,2023-08-15,Finance,16 years,14.0,39.2,on-site,2022-10-05,8.0,6.15,E0031,2011,Computer Science
-E0032,41.0,60056.0,Y,2023-08-15,Hr,2,8.0,31.5,remote,2022-10-05,3.0,6.15,E0032,1986,Biology
-E0033,41.0,100408.0,Yes,2023-08-15,Finance,3 years,0.0,47.2,remote,2022-05-10,6.0,9.0,E0033,2021,Business Administration
-E0034,41.0,55636.0,Y,2023-08-15,Finance,5,8.0,33.6,hybrid,2022-05-10,6.0,4.7,E0034,2022,Linguistics
-E0035,41.0,64760.0,N,2023-08-15,Finance,16 years,7.0,52.3,hybrid,2022-10-05,3.0,6.15,E0035,1987,Computer Science
-E0036,41.0,104328.0,No,2023-08-15,Hr,16 years,11.0,30.6,hybrid,2022-10-05,6.0,3.6,E0036,1995,Computer Science
-E0037,41.0,104328.0,No,2023-08-15,Finance,16 years,9.0,43.3,on-site,2022-05-10,5.0,0.1,E0037,1985,Engineering
-E0038,41.0,118824.0,Y,2023-08-15,Finance,13 years,8.0,43.3,remote,2022-05-10,9.0,5.8,E0038,2011,Physics
-E0039,36.0,54309.0,Yes,2023-08-15,Engineering,16 years,9.0,47.0,hybrid,2022-05-10,6.0,5.1,E0039,2010,Philosophy
-E0040,41.0,104328.0,N,2023-08-15,Marketing,15,11.0,43.3,remote work,2022-10-05,2.0,9.4,E0040,1987,Economics
-E0041,41.0,96964.0,Yes,2023-08-15,Finance,11,8.0,52.4,remote work,2022-05-10,5.0,6.15,E0041,2022,Engineering
-E0042,41.0,104328.0,Y,2023-08-15,Hr,3 years,8.0,50.5,remote work,2022-05-10,6.0,6.15,E0042,2002,Medicine
-E0043,41.0,93041.0,N,2023-08-15,Finance,12,15.0,46.1,hybrid,2022-05-10,1.0,7.2,E0043,2004,Psychology
-E0044,46.0,110107.0,Yes,2023-08-15,Engineering,16 years,8.0,38.3,hybrid,2022-10-05,1.0,9.7,E0044,2023,Statistics
-E0045,41.0,104328.0,No,2023-08-15,Finance,12,8.0,43.3,hybrid,2022-05-10,6.0,2.7,E0045,2012,Mathematics
-E0046,41.0,104328.0,Y,2023-08-15,Engineering,13 years,8.0,43.3,hybrid,2022-05-10,5.0,6.7,E0046,2008,Physics
-E0047,41.0,114025.0,N,2023-08-15,Engineering,9 years,8.0,43.3,hybrid,2022-10-05,8.0,7.4,E0047,1995,Law
-E0048,25.0,76198.0,No,2023-08-15,Engineering,1,4.0,43.3,remote,2022-10-05,8.0,6.4,E0048,2013,Mathematics
-E0049,52.0,77790.0,Y,2023-08-15,Engineering,16 years,8.0,43.3,on-site,2022-05-10,6.0,4.0,E0049,2013,Economics
-E0050,58.0,104328.0,Y,2023-08-15,Finance,16 years,13.0,43.3,remote,2022-10-05,6.0,0.1,E0050,1997,Architecture
-E0051,41.0,104328.0,Yes,2023-08-15,Engineering,16 years,8.0,43.9,hybrid,2022-05-10,8.0,8.8,E0051,1998,Physics
-E0052,58.0,59683.0,N,2023-08-15,Hr,6,11.0,58.5,hybrid,2022-05-10,6.0,4.0,E0052,2001,Engineering
-E0053,30.0,112353.0,Y,2023-08-15,Finance,8 years,1.0,43.3,hybrid,2022-05-10,6.0,3.0,E0053,1989,Linguistics
-E0054,41.0,104328.0,Yes,2023-08-15,Hr,6 years,8.0,43.3,remote,2022-05-10,2.0,8.8,E0054,2007,Law
-E0055,22.0,90959.0,Yes,2023-08-15,Engineering,19,8.0,34.8,hybrid,2022-05-10,6.0,8.2,E0055,2003,Statistics
-E0056,33.0,104328.0,N,2023-08-15,Hr,16 years,8.0,43.3,hybrid,2022-10-05,6.0,6.15,E0056,2002,Medicine
-E0057,41.0,67302.0,Yes,2023-08-15,Hr,10,8.0,57.1,remote,2022-10-05,6.0,6.15,E0057,2021,Chemistry
-E0058,56.0,104328.0,Y,2023-08-15,Finance,16 years,0.0,43.3,hybrid,2022-10-05,4.0,2.4,E0058,2013,Political Science
-E0059,28.0,104328.0,Y,2023-08-15,Finance,16 years,8.0,53.1,remote work,2022-10-05,1.0,6.15,E0059,1999,Psychology
-E0060,31.0,78675.0,Y,2023-08-15,Marketing,10,7.0,32.8,hybrid,2022-10-05,6.0,9.8,E0060,2014,Psychology
-E0061,56.0,74562.0,Y,2023-08-15,Finance,7,5.0,33.5,hybrid,2022-05-10,4.0,7.1,E0061,2005,Mathematics
-E0062,41.0,104328.0,Yes,2023-08-15,Marketing,17 years,3.0,43.3,remote,2022-10-05,6.0,3.7,E0062,2000,Architecture
-E0063,38.0,104328.0,Yes,2023-08-15,Finance,16 years,10.0,43.7,hybrid,2022-05-10,6.0,6.15,E0063,1989,Physics
-E0064,41.0,53115.0,Y,2023-08-15,Engineering,14,8.0,43.4,remote,2022-10-05,6.0,8.7,E0064,1986,Architecture
-E0065,26.0,104328.0,Y,2023-08-15,Hr,16 years,8.0,48.2,hybrid,2022-10-05,6.0,1.5,E0065,2022,Statistics
-E0066,55.0,104328.0,Y,2023-08-15,Hr,16 years,0.0,39.9,hybrid,2022-10-05,8.0,6.15,E0066,2001,Medicine
-E0067,50.0,74248.0,Y,2023-08-15,Finance,13,4.0,43.3,hybrid,2022-10-05,6.0,6.15,E0067,2022,Linguistics
-E0068,46.0,66322.0,N,2023-08-15,Finance,16,8.0,36.7,remote work,2022-05-10,6.0,2.9,E0068,2020,Statistics
-E0069,37.0,115365.0,Y,2023-08-15,Hr,11,9.0,43.3,hybrid,2022-05-10,1.0,6.3,E0069,2009,Economics
-E0070,60.0,58354.0,N,2023-08-15,Finance,16 years,9.0,43.3,on-site,2022-05-10,6.0,8.2,E0070,1985,Economics
-E0071,41.0,100258.0,No,2023-08-15,Finance,2,8.0,40.6,remote work,2022-05-10,6.0,3.2,E0071,2013,Medicine
-E0072,41.0,63436.0,N,2023-08-15,Engineering,16 years,8.0,43.3,hybrid,2022-05-10,9.0,5.6,E0072,2007,Philosophy
-E0073,41.0,95567.0,Y,2023-08-15,Engineering,15 years,8.0,51.0,hybrid,2022-05-10,6.0,9.2,E0073,1988,Physics
-E0074,41.0,55034.0,Yes,2023-08-15,Marketing,10,8.0,43.3,remote work,2022-05-10,6.0,6.15,E0074,2023,Medicine
-E0075,54.0,104328.0,Y,2023-08-15,Marketing,16 years,8.0,43.3,on-site,2022-10-05,6.0,0.7,E0075,1989,Political Science
-E0076,25.0,89252.0,N,2023-08-15,Marketing,16 years,8.0,30.1,hybrid,2022-10-05,3.0,8.9,E0076,2009,Psychology
-E0077,53.0,104328.0,Y,2023-08-15,Hr,18 years,8.0,37.8,remote work,2022-05-10,9.0,5.1,E0077,2020,Psychology
-E0078,41.0,100797.0,Yes,2023-08-15,Finance,6,15.0,38.8,remote,2022-05-10,10.0,7.3,E0078,1986,Chemistry
-E0079,49.0,55975.0,Y,2023-08-15,Engineering,11,8.0,55.6,on-site,2022-05-10,5.0,1.4,E0079,1992,Business Administration
-E0080,55.0,104328.0,N,2023-08-15,Hr,6 years,0.0,57.3,remote work,2022-10-05,2.0,6.15,E0080,2009,Engineering
-E0081,41.0,72879.0,Y,2023-08-15,Engineering,5 years,8.0,50.4,remote,2022-10-05,8.0,6.3,E0081,2009,Computer Science
-E0082,58.0,69957.0,Yes,2023-08-15,Finance,16 years,8.0,30.4,hybrid,2022-10-05,5.0,6.15,E0082,2009,Mathematics
-E0083,41.0,110072.0,No,2023-08-15,Marketing,10 years,8.0,39.1,on-site,2022-10-05,6.0,6.15,E0083,2003,Linguistics
-E0084,57.0,101902.0,No,2023-08-15,Engineering,1,0.0,33.7,hybrid,2022-10-05,6.0,9.2,E0084,2001,Philosophy
-E0085,41.0,51597.0,N,2023-08-15,Finance,17,8.0,49.8,remote work,2022-10-05,10.0,6.15,E0085,1988,Psychology
-E0086,47.0,104328.0,N,2023-08-15,Engineering,19,8.0,43.3,on-site,2022-10-05,7.0,6.15,E0086,1988,Economics
-E0087,28.0,104328.0,Y,2023-08-15,Engineering,10 years,14.0,41.9,on-site,2022-10-05,6.0,8.7,E0087,1986,Economics
-E0088,41.0,61454.0,N,2023-08-15,Hr,19,0.0,43.3,hybrid,2022-10-05,6.0,6.15,E0088,1996,Linguistics
-E0089,41.0,117852.0,Y,2023-08-15,Marketing,14 years,8.0,43.3,remote,2022-05-10,6.0,7.8,E0089,1987,Philosophy
-E0090,41.0,104328.0,Y,2023-08-15,Finance,16 years,6.0,43.3,remote work,2022-05-10,6.0,4.9,E0090,2018,Medicine
-E0091,41.0,104328.0,No,2023-08-15,Finance,16 years,8.0,55.1,remote work,2022-10-05,1.0,7.0,E0091,2000,Statistics
-E0092,41.0,99874.0,Yes,2023-08-15,Finance,4 years,8.0,43.2,on-site,2022-05-10,6.0,6.15,E0092,1989,Economics
-E0093,41.0,104328.0,Yes,2023-08-15,Hr,12,10.0,43.3,on-site,2022-05-10,6.0,6.15,E0093,2003,Business Administration
-E0094,41.0,99454.0,No,2023-08-15,Finance,7 years,5.0,43.3,on-site,2022-05-10,6.0,6.4,E0094,2009,Political Science
-E0095,35.0,109572.0,Yes,2023-08-15,Finance,4,9.0,33.7,hybrid,2022-10-05,3.0,6.9,E0095,1999,Physics
-E0096,41.0,58279.0,Y,2023-08-15,Engineering,16 years,10.0,34.0,hybrid,2022-10-05,9.0,7.2,E0096,1994,Computer Science
-E0097,41.0,104328.0,Y,2023-08-15,Marketing,16 years,8.0,43.3,hybrid,2022-05-10,6.0,6.15,E0097,2003,Engineering
-E0098,26.0,51438.0,No,2023-08-15,Marketing,5 years,0.0,43.3,hybrid,2022-05-10,6.0,6.0,E0098,1985,Physics
-E0099,41.0,95478.0,No,2023-08-15,Finance,5 years,8.0,53.3,hybrid,2022-05-10,1.0,2.0,E0099,2010,Psychology
-E0100,41.0,98173.0,No,2023-08-15,Finance,7,8.0,43.3,on-site,2022-05-10,6.0,6.15,E0100,2013,Mathematics
+employee_id,age,salary,promotion_eligible,last_training_date,department,work_experience,projects_completed,hours_worked_weekly,work_mode,last_promotion_date,satisfaction_score,overtime_hours,graduation_year,educational_background
+E0001,54.0,104328.0,Y,2023-08-15,Hr,16,14.0,43.3,remote,2022-05-10,6.0,8.4,2011,Psychology
+E0002,41.0,64761.0,N,2023-08-15,Finance,1,8.0,53.3,hybrid,2022-05-10,6.0,8.1,1995,Architecture
+E0003,54.0,104328.0,N,2023-08-15,Marketing,8,6.0,32.6,hybrid,2022-10-05,10.0,5.2,2007,Business Administration
+E0004,41.0,104328.0,No,2023-08-15,Finance,16,1.0,37.8,remote,2022-05-10,5.0,6.15,2000,Business Administration
+E0005,29.0,61486.0,Y,2023-08-15,Finance,16,1.0,53.3,hybrid,2022-05-10,6.0,0.3,1991,Medicine
+E0006,41.0,93128.0,No,2023-08-15,Hr,6,12.0,35.6,hybrid,2022-10-05,3.0,9.7,2019,Statistics
+E0007,41.0,115377.0,Y,2023-08-15,Finance,11,13.0,33.7,hybrid,2022-05-10,7.0,1.8,1998,Mathematics
+E0008,41.0,51543.0,Y,2023-08-15,Finance,16,8.0,40.8,hybrid,2022-05-10,6.0,6.15,2009,Philosophy
+E0009,41.0,68755.0,N,2023-08-15,Finance,2,8.0,34.3,remote,2022-05-10,2.0,2.3,2007,Business Administration
+E0010,37.0,104328.0,Y,2023-08-15,Finance,16,8.0,57.9,hybrid,2022-05-10,2.0,5.7,1990,Computer Science
+E0011,41.0,104328.0,Y,2023-08-15,Marketing,16,8.0,43.3,hybrid,2022-05-10,9.0,0.0,2007,Chemistry
+E0012,53.0,104328.0,Y,2023-08-15,Finance,16,8.0,43.3,on-site,2022-05-10,8.0,0.7,1993,Linguistics
+E0013,41.0,64651.0,Y,2023-08-15,Finance,8,8.0,46.3,hybrid,2022-05-10,7.0,6.15,2019,Psychology
+E0014,41.0,104328.0,Yes,2023-08-15,Finance,16,13.0,43.3,remote,2022-05-10,6.0,6.15,2008,Architecture
+E0015,41.0,77186.0,Y,2023-08-15,Engineering,17,3.0,42.3,hybrid,2022-10-05,4.0,5.9,2018,Engineering
+E0016,41.0,98311.0,N,2023-08-15,Finance,6,8.0,48.1,hybrid,2022-10-05,6.0,8.7,1986,Medicine
+E0017,41.0,79566.0,Y,2023-08-15,Engineering,16,8.0,50.0,on-site,2022-05-10,3.0,6.15,2003,Statistics
+E0018,34.0,75238.0,Yes,2023-08-15,Engineering,18,8.0,30.6,remote,2022-05-10,6.0,2.9,2006,Chemistry
+E0019,34.0,104328.0,Yes,2023-08-15,Finance,2,8.0,42.8,hybrid,2022-05-10,10.0,4.9,2012,Computer Science
+E0020,41.0,92752.0,Y,2023-08-15,Marketing,13,15.0,34.8,remote,2022-05-10,6.0,7.2,2001,Law
+E0021,41.0,104328.0,Yes,2023-08-15,Engineering,17,8.0,48.9,hybrid,2022-05-10,6.0,4.0,1986,Computer Science
+E0022,41.0,81405.0,Y,2023-08-15,Marketing,5,8.0,59.4,on-site,2022-05-10,1.0,5.5,2017,Statistics
+E0023,41.0,104328.0,N,2023-08-15,Finance,14,8.0,43.3,remote,2022-05-10,8.0,1.9,2016,Engineering
+E0024,41.0,104328.0,N,2023-08-15,Marketing,16,4.0,53.2,on-site,2022-05-10,6.0,7.8,1985,Chemistry
+E0025,27.0,75267.0,No,2023-08-15,Engineering,20,8.0,40.7,hybrid,2022-05-10,10.0,6.15,1994,Biology
+E0026,30.0,82815.0,Y,2023-08-15,Finance,16,8.0,30.1,remote,2022-05-10,6.0,7.4,1990,Medicine
+E0027,41.0,77065.0,Y,2023-08-15,Finance,2,8.0,43.8,hybrid,2022-05-10,7.0,8.9,2016,Chemistry
+E0028,41.0,104328.0,No,2023-08-15,Finance,5,8.0,45.1,remote,2022-10-05,9.0,6.15,1987,Architecture
+E0029,41.0,71504.0,Y,2023-08-15,Engineering,6,3.0,43.6,remote,2022-10-05,10.0,6.15,2021,Mathematics
+E0030,41.0,71352.0,Yes,2023-08-15,Finance,16,1.0,54.2,hybrid,2022-05-10,3.0,6.9,1989,Linguistics
+E0031,28.0,104328.0,Yes,2023-08-15,Finance,16,14.0,39.2,on-site,2022-10-05,8.0,6.15,2011,Computer Science
+E0032,41.0,60056.0,Y,2023-08-15,Hr,2,8.0,31.5,remote,2022-10-05,3.0,6.15,1986,Biology
+E0033,41.0,100408.0,Yes,2023-08-15,Finance,3,0.0,47.2,remote,2022-05-10,6.0,9.0,2021,Business Administration
+E0034,41.0,55636.0,Y,2023-08-15,Finance,5,8.0,33.6,hybrid,2022-05-10,6.0,4.7,2022,Linguistics
+E0035,41.0,64760.0,N,2023-08-15,Finance,16,7.0,52.3,hybrid,2022-10-05,3.0,6.15,1987,Computer Science
+E0036,41.0,104328.0,No,2023-08-15,Hr,16,11.0,30.6,hybrid,2022-10-05,6.0,3.6,1995,Computer Science
+E0037,41.0,104328.0,No,2023-08-15,Finance,16,9.0,43.3,on-site,2022-05-10,5.0,0.1,1985,Engineering
+E0038,41.0,118824.0,Y,2023-08-15,Finance,13,8.0,43.3,remote,2022-05-10,9.0,5.8,2011,Physics
+E0039,36.0,54309.0,Yes,2023-08-15,Engineering,16,9.0,47.0,hybrid,2022-05-10,6.0,5.1,2010,Philosophy
+E0040,41.0,104328.0,N,2023-08-15,Marketing,15,11.0,43.3,remote,2022-10-05,2.0,9.4,1987,Economics
+E0041,41.0,96964.0,Yes,2023-08-15,Finance,11,8.0,52.4,remote,2022-05-10,5.0,6.15,2022,Engineering
+E0042,41.0,104328.0,Y,2023-08-15,Hr,3,8.0,50.5,remote,2022-05-10,6.0,6.15,2002,Medicine
+E0043,41.0,93041.0,N,2023-08-15,Finance,12,15.0,46.1,hybrid,2022-05-10,1.0,7.2,2004,Psychology
+E0044,46.0,110107.0,Yes,2023-08-15,Engineering,16,8.0,38.3,hybrid,2022-10-05,1.0,9.7,2023,Statistics
+E0045,41.0,104328.0,No,2023-08-15,Finance,12,8.0,43.3,hybrid,2022-05-10,6.0,2.7,2012,Mathematics
+E0046,41.0,104328.0,Y,2023-08-15,Engineering,13,8.0,43.3,hybrid,2022-05-10,5.0,6.7,2008,Physics
+E0047,41.0,114025.0,N,2023-08-15,Engineering,9,8.0,43.3,hybrid,2022-10-05,8.0,7.4,1995,Law
+E0048,25.0,76198.0,No,2023-08-15,Engineering,1,4.0,43.3,remote,2022-10-05,8.0,6.4,2013,Mathematics
+E0049,52.0,77790.0,Y,2023-08-15,Engineering,16,8.0,43.3,on-site,2022-05-10,6.0,4.0,2013,Economics
+E0050,58.0,104328.0,Y,2023-08-15,Finance,16,13.0,43.3,remote,2022-10-05,6.0,0.1,1997,Architecture
+E0051,41.0,104328.0,Yes,2023-08-15,Engineering,16,8.0,43.9,hybrid,2022-05-10,8.0,8.8,1998,Physics
+E0052,58.0,59683.0,N,2023-08-15,Hr,6,11.0,58.5,hybrid,2022-05-10,6.0,4.0,2001,Engineering
+E0053,30.0,112353.0,Y,2023-08-15,Finance,8,1.0,43.3,hybrid,2022-05-10,6.0,3.0,1989,Linguistics
+E0054,41.0,104328.0,Yes,2023-08-15,Hr,6,8.0,43.3,remote,2022-05-10,2.0,8.8,2007,Law
+E0055,22.0,90959.0,Yes,2023-08-15,Engineering,19,8.0,34.8,hybrid,2022-05-10,6.0,8.2,2003,Statistics
+E0056,33.0,104328.0,N,2023-08-15,Hr,16,8.0,43.3,hybrid,2022-10-05,6.0,6.15,2002,Medicine
+E0057,41.0,67302.0,Yes,2023-08-15,Hr,10,8.0,57.1,remote,2022-10-05,6.0,6.15,2021,Chemistry
+E0058,56.0,104328.0,Y,2023-08-15,Finance,16,0.0,43.3,hybrid,2022-10-05,4.0,2.4,2013,Political Science
+E0059,28.0,104328.0,Y,2023-08-15,Finance,16,8.0,53.1,remote,2022-10-05,1.0,6.15,1999,Psychology
+E0060,31.0,78675.0,Y,2023-08-15,Marketing,10,7.0,32.8,hybrid,2022-10-05,6.0,9.8,2014,Psychology
+E0061,56.0,74562.0,Y,2023-08-15,Finance,7,5.0,33.5,hybrid,2022-05-10,4.0,7.1,2005,Mathematics
+E0062,41.0,104328.0,Yes,2023-08-15,Marketing,17,3.0,43.3,remote,2022-10-05,6.0,3.7,2000,Architecture
+E0063,38.0,104328.0,Yes,2023-08-15,Finance,16,10.0,43.7,hybrid,2022-05-10,6.0,6.15,1989,Physics
+E0064,41.0,53115.0,Y,2023-08-15,Engineering,14,8.0,43.4,remote,2022-10-05,6.0,8.7,1986,Architecture
+E0065,26.0,104328.0,Y,2023-08-15,Hr,16,8.0,48.2,hybrid,2022-10-05,6.0,1.5,2022,Statistics
+E0066,55.0,104328.0,Y,2023-08-15,Hr,16,0.0,39.9,hybrid,2022-10-05,8.0,6.15,2001,Medicine
+E0067,50.0,74248.0,Y,2023-08-15,Finance,13,4.0,43.3,hybrid,2022-10-05,6.0,6.15,2022,Linguistics
+E0068,46.0,66322.0,N,2023-08-15,Finance,16,8.0,36.7,remote,2022-05-10,6.0,2.9,2020,Statistics
+E0069,37.0,115365.0,Y,2023-08-15,Hr,11,9.0,43.3,hybrid,2022-05-10,1.0,6.3,2009,Economics
+E0070,60.0,58354.0,N,2023-08-15,Finance,16,9.0,43.3,on-site,2022-05-10,6.0,8.2,1985,Economics
+E0071,41.0,100258.0,No,2023-08-15,Finance,2,8.0,40.6,remote,2022-05-10,6.0,3.2,2013,Medicine
+E0072,41.0,63436.0,N,2023-08-15,Engineering,16,8.0,43.3,hybrid,2022-05-10,9.0,5.6,2007,Philosophy
+E0073,41.0,95567.0,Y,2023-08-15,Engineering,15,8.0,51.0,hybrid,2022-05-10,6.0,9.2,1988,Physics
+E0074,41.0,55034.0,Yes,2023-08-15,Marketing,10,8.0,43.3,remote,2022-05-10,6.0,6.15,2023,Medicine
+E0075,54.0,104328.0,Y,2023-08-15,Marketing,16,8.0,43.3,on-site,2022-10-05,6.0,0.7,1989,Political Science
+E0076,25.0,89252.0,N,2023-08-15,Marketing,16,8.0,30.1,hybrid,2022-10-05,3.0,8.9,2009,Psychology
+E0077,53.0,104328.0,Y,2023-08-15,Hr,18,8.0,37.8,remote,2022-05-10,9.0,5.1,2020,Psychology
+E0078,41.0,100797.0,Yes,2023-08-15,Finance,6,15.0,38.8,remote,2022-05-10,10.0,7.3,1986,Chemistry
+E0079,49.0,55975.0,Y,2023-08-15,Engineering,11,8.0,55.6,on-site,2022-05-10,5.0,1.4,1992,Business Administration
+E0080,55.0,104328.0,N,2023-08-15,Hr,6,0.0,57.3,remote,2022-10-05,2.0,6.15,2009,Engineering
+E0081,41.0,72879.0,Y,2023-08-15,Engineering,5,8.0,50.4,remote,2022-10-05,8.0,6.3,2009,Computer Science
+E0082,58.0,69957.0,Yes,2023-08-15,Finance,16,8.0,30.4,hybrid,2022-10-05,5.0,6.15,2009,Mathematics
+E0083,41.0,110072.0,No,2023-08-15,Marketing,10,8.0,39.1,on-site,2022-10-05,6.0,6.15,2003,Linguistics
+E0084,57.0,101902.0,No,2023-08-15,Engineering,1,0.0,33.7,hybrid,2022-10-05,6.0,9.2,2001,Philosophy
+E0085,41.0,51597.0,N,2023-08-15,Finance,17,8.0,49.8,remote,2022-10-05,10.0,6.15,1988,Psychology
+E0086,47.0,104328.0,N,2023-08-15,Engineering,19,8.0,43.3,on-site,2022-10-05,7.0,6.15,1988,Economics
+E0087,28.0,104328.0,Y,2023-08-15,Engineering,10,14.0,41.9,on-site,2022-10-05,6.0,8.7,1986,Economics
+E0088,41.0,61454.0,N,2023-08-15,Hr,19,0.0,43.3,hybrid,2022-10-05,6.0,6.15,1996,Linguistics
+E0089,41.0,117852.0,Y,2023-08-15,Marketing,14,8.0,43.3,remote,2022-05-10,6.0,7.8,1987,Philosophy
+E0090,41.0,104328.0,Y,2023-08-15,Finance,16,6.0,43.3,remote,2022-05-10,6.0,4.9,2018,Medicine
+E0091,41.0,104328.0,No,2023-08-15,Finance,16,8.0,55.1,remote,2022-10-05,1.0,7.0,2000,Statistics
+E0092,41.0,99874.0,Yes,2023-08-15,Finance,4,8.0,43.2,on-site,2022-05-10,6.0,6.15,1989,Economics
+E0093,41.0,104328.0,Yes,2023-08-15,Hr,12,10.0,43.3,on-site,2022-05-10,6.0,6.15,2003,Business Administration
+E0094,41.0,99454.0,No,2023-08-15,Finance,7,5.0,43.3,on-site,2022-05-10,6.0,6.4,2009,Political Science
+E0095,35.0,109572.0,Yes,2023-08-15,Finance,4,9.0,33.7,hybrid,2022-10-05,3.0,6.9,1999,Physics
+E0096,41.0,58279.0,Y,2023-08-15,Engineering,16,10.0,34.0,hybrid,2022-10-05,9.0,7.2,1994,Computer Science
+E0097,41.0,104328.0,Y,2023-08-15,Marketing,16,8.0,43.3,hybrid,2022-05-10,6.0,6.15,2003,Engineering
+E0098,26.0,51438.0,No,2023-08-15,Marketing,5,0.0,43.3,hybrid,2022-05-10,6.0,6.0,1985,Physics
+E0099,41.0,95478.0,No,2023-08-15,Finance,5,8.0,53.3,hybrid,2022-05-10,1.0,2.0,2010,Psychology
+E0100,41.0,98173.0,No,2023-08-15,Finance,7,8.0,43.3,on-site,2022-05-10,6.0,6.15,2013,Mathematics
